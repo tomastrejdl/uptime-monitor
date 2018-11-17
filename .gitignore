@@ -63,3 +63,4 @@ typings/
 # my ignores
 https
 .data
+.logs
